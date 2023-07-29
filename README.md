@@ -1,6 +1,9 @@
-### Welcome to my Github!
+### Welcome to my Github and the evandelacruz repo!
 
-When I created this repo I did not realze it was ✨ _special_ ✨ (because it shares the same name as my profile) and would therefore house my primary Github README :)
+This is 2 READMEs in one. One for my Github profile and the other for the *evandelacruz* repo.
+
+When I created this repo *evandelacruz/evandelacruz*, I did not realze it was ✨ _special_ ✨ (because it shares the same name as my profile) and would therefore house my primary Github README :) 
+I simply named it evandelacruz because that is the name of the server that hosts the deployed website.
 
 So, this repo actually has the code for a website in it as well. The website, http://evandelacruz.com, is meant to serve as a launching point for anyone interested in my software engineering endeavors. It is a very simple HTML page.
 
