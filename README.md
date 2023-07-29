@@ -1,8 +1,10 @@
-### evandelacruz.com
+### Welcome to my Github!
 
-This website serves as an easy launch-point for anyone interested in my software engineering endeavors.
+When I created this repo I did not realze it was special and would house my primary Github README :)
 
-(http://evandelacruz.com)
+So, this repo actually has the code for a website in it as well. The website, http://evandelacruz.com, is meant to serve as a launching point for anyone interested in my software engineering endeavors. It is a very simple HTML page.
+
+If you're interested in my code, the hobby stuff I've been working on lately is in the [Tarti NFT](https://github.com/TartiNft) project.
 
 <!--
 **evandelacruz/evandelacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
