@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 
-When I created this repo I did not realze it was special and would house my primary Github README :)
+When I created this repo I did not realze it was ✨ _special_ ✨ (because it shares the same name as my profile) and would therefore house my primary Github README :)
 
 So, this repo actually has the code for a website in it as well. The website, http://evandelacruz.com, is meant to serve as a launching point for anyone interested in my software engineering endeavors. It is a very simple HTML page.
 
