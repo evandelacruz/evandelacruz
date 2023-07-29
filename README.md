@@ -1,25 +1,5 @@
-### Welcome to my Github and the evandelacruz repo!
+### Welcome to the evandelacruz repo!
 
-This is 2 READMEs in one. One for my Github profile and the other for the *evandelacruz* repo.
-
-When I created this repo *evandelacruz/evandelacruz*, I did not realze it was ✨ _special_ ✨ (because it shares the same name as my profile) and would therefore house my primary Github README :) 
-I simply named it evandelacruz because that is the name of the server that hosts the deployed website.
-
-So, this repo actually has the code for a website in it as well. The website, http://evandelacruz.com, is meant to serve as a launching point for anyone interested in my software engineering endeavors. It is a very simple HTML page.
+The website, http://evandelacruz.com, is meant to serve as a launching point for anyone interested in my software engineering endeavors. It is a very simple HTML page.
 
 If you're interested in my code, the hobby stuff I've been working on lately is in the [Tarti NFT](https://github.com/TartiNft) project.
-
-<!--
-**evandelacruz/evandelacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
